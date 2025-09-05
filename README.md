@@ -45,6 +45,7 @@ pip install gymnasium numpy matplotlib
 Runs instantly without any training and plays multiple games in sequence.
 
 cd examples
+
 python3 strategic_wordle_agent.py
 
 
